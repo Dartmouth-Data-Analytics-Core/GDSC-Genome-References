@@ -89,6 +89,9 @@ Genome references for commonly used organisms and bioinformatics tools can be fo
 /dartfs/rc/nosnapshots/G/GMBSR_refs/Drerio/danRer11/annotation/picard/danRer11.primary.rRNA.interval.list
 ```
 
+## Instructions for use with DAC RNA-Seq pipeline
+Pre-built configuration files and instructions for the DAC RNA-Seq pipeline in conjunction with these references are available in the [RNA-Seq pipeline repository]([https://github.com/Dartmouth-Data-Analytics-Core/DAC-Genome-References](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline/blob/master/README.md#running-the-pipeline-using-pre-built-references-and-config-files-on-discovery)).  
+
 
 **Contact & questions:** 
 Please address questions to *DataAnalyticsCore@groups.dartmouth.edu* or submit an issue in the GitHub repository. 
